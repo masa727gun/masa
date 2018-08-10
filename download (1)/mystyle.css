@@ -1,9 +1,14 @@
 
-h1 {color:blue;}
-<!-- h1{color:blue;}-->
-h1 {color:#F0A050;}
+h1 {color:pink;}
+<!-- h1{color:pink;}-->
+h1 {color:#000080;}
 th,td{border:dashed thick black;}
 th.important{color:red;}
-p.sample{border:double 10px #0000ff;}
-p.sample{border:inset 10px #ff0000;}
-p.sample{margin: 30px 30px;padding: 10px;border:medium solid #ff00ff;}
+p.sample1{border:inset 10px #ffff00;}
+p.sample2{border:inset 10px #ff8c00;}
+p.sample3{border:inset 10px #cc66cc;}
+p.sample4{border:inset 10px #1e90ff;}
+p.sample5{border:inset 10px #ffd770;}
+p.sample6{border:inset 10px #2c7c00;}
+p.sample7{border:inset 10px #beff15;}
+p.sample8{margin: 30px 30px;padding: 10px;border:medium solid #00ff7f;}
